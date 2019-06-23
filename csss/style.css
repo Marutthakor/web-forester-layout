@@ -1,0 +1,377 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background-image: url(..//image/bg-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.headr{
+/*    position: fixed;*/
+    width: 100%;
+    border-bottom: 1px solid rgba(255,255,255,.2);
+    overflow: auto;
+}
+.headrmain{
+    width: 90%;
+    margin: auto;
+    }
+.hedmanu{
+    width: 40%;
+    float: left;
+}
+.hedlogo{
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding: 15px;
+}
+.soc{
+    width: 40%;
+    float: left;
+}
+.insoc{
+    width: 50%;
+    
+}
+.list{
+    list-style: none;
+    float: left;
+}
+.listitem{
+    display: inline-block;
+    padding: 4px;
+}
+.textline{
+    text-decoration: none;
+    color: white;
+    
+}
+/*.rightbor{
+    border-left: 1px solid rgba(255,255,255,255);
+    overflow: auto;
+    padding: 5px;
+}*/
+.forester_main{
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+.titlein{
+    height:120px;
+    }
+.titlein1{
+    width: 67%;
+    margin: auto;
+    height: 60px;
+}
+.titlein2{
+width: 150px;
+    margin: auto;
+    text-align: center;
+   background-color: #a6b383;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+.secondpage{
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+.ip{
+    text-align:
+   }
+.h5{
+    margin: 0;
+    color: white;
+    text-align: center;
+    }
+.h1{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    }
+.story{
+    width: 60%;
+    height: 150px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+.storyin{
+/*    height:20px;*/
+    text-align: center;
+    }
+.storyin1{
+    width: 60%;
+    margin: auto;
+/*    height: 50px;*/
+    text-align: center;
+}
+.storyin2{
+width: 60%;
+    margin: auto;
+    text-align: center;
+   padding: 20px;
+   
+    font-size: 12px;
+}
+.services{
+    width: 100%;
+    background-color: #f2f4ec;
+     padding: 30px;
+}
+/*.servicesmain{
+    width: 60%;
+    height: 150px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: relative;
+    text-align: center;
+}*/
+.container{
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    color: #aeaeae;
+}
+.servicesmain{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+.experttext{
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.servicetext{
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: black;
+}
+
+.serviceinfo{
+/*
+    width: 70%;
+    margin: auto;
+*/
+    height: 500px;
+    text-align: center;
+    padding: 40px;
+}
+
+.servic_gallery{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+.Web-Designinfo{
+    width: 100%;
+    height: 185px;
+    background-image: url(../image/bg-1.jpg);
+    background-size: cover;
+    background-position: left;
+    background-attachment: fixed;
+    position: relative;
+}
+.wdicon{
+    width: 40%;
+    margin: auto;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.wdcont{
+    width: 100%;
+    background-color: white;
+    padding: 50px;
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.07);
+    color: black;
+}
+
+.details{
+    font-size: 12px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+.qualityservices{
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    color: #aeaeae;
+}
+.quapere{
+    padding: 40px;
+}
+.get-button{
+    text-align: center;
+    border: 1px solid #aeaeae;
+    border-radius: 30px;
+    color: black;
+    background-color: #f2f4ec;
+    padding: 10px 30px;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.galy{
+    width: 100%;
+    overflow: auto;
+}
+.workergallery{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+.galy-color{
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: black;
+}
+.nextcont{
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.showall{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.gall-list{
+    list-style: none;
+}
+.gall-con{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+.gall-ref{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.work-gall{
+    width: 100%;
+    overflow: auto;
+}
+.pic-work{
+    width: 33.33%;
+    float: left;
+    padding: 5px;
+   }
+.were{
+    width: 100%;
+    background-color: #f2f4ec;
+    position: relative;
+}
+.achive-we{
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+    padding: 50px 0px;
+}
+.icons{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+}
+.achive{
+    width: 100%;
+    color: black;
+}
+.font-small {
+    font-size: 8px;
+    font-family: sans-serif;
+}
+.crew{
+    width: 100%;
+   padding: 80px;
+}
+.heading{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+.team-pic{
+    width: 80%;
+    margin: auto;
+}
+.team-per{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+}
+.black-sec{
+    width: 100%;
+    background-color: black;
+}
+.number{
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+    padding: 50px 15px;
+}
+.num-count{
+    width: 25%;
+    float: left;
+}
+.num{
+    margin-bottom: 20px;
+}
+.num-format{
+    font-size: 65px;
+    font-family: "Montserrat";
+    color: white;
+    text-align: center;
+}
+.cont-col{
+    color: white;
+    font-size: 18px;
+    font-family: "Nunito Sans";
+    text-align: center;
+}
+.cont-txt{
+    font-size: 14px;
+    font-family: "Nunito Sans";
+    text-align: center;
+    padding: 0px 30px;
+    color: white;
+}
