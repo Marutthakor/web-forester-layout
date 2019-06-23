@@ -330,6 +330,9 @@ width: 60%;
     text-align: center;
     padding: 40px;
 }
+.piccool{
+    height: 315px;
+}
 .team-pic{
     width: 80%;
     margin: auto;
@@ -341,10 +344,17 @@ width: 60%;
 }
 .black-sec{
     width: 100%;
+    
+    background-image:url(../image/bg-1.jpg);
+ 
+   }
+.bgcol{
+    width: 100%;
     background-color: black;
+    
 }
 .number{
-    width: 70%;
+     width: 70%;
     margin: auto;
     overflow: auto;
     padding: 50px 15px;
@@ -374,4 +384,50 @@ width: 60%;
     text-align: center;
     padding: 0px 30px;
     color: white;
+}
+.rev-cont{
+    width: 60%;
+    margin: auto;
+    padding: 160px 0px;
+    color: white;
+    text-align: center;
+}
+.color-rev{
+    font-size: 50px;
+    font-family: "Montserrat";
+}
+.cont-txt2{
+    font-size: 20px;
+    font-family: "Nunito Sans";
+    text-align: center;
+    padding: 0px 30px;
+    color: white;
+}
+.social-sec{
+    width: 60%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+}
+.galy-color1{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: black;
+}
+.social-sec-icons{
+    width: 100%;
+        overflow: auto;
+        padding: 20px 20px;
+}
+.social-icons-list{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.gall-ref{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    font-family: sans-serif;
 }
