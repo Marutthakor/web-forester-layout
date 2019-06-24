@@ -431,3 +431,143 @@ width: 60%;
     font-size: 10px;
     font-family: sans-serif;
 }
+.bgcolor{
+    background-color: white;
+    width: 100%;
+    position: relative;
+}
+.form-section{
+    width: 80%;
+    overflow: auto;
+    text-align: left;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.location{
+    width: 33.33%;
+    float: left;
+    padding: 50px 50px;
+}
+.get-size {
+    font-family: sans-serif;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.get-left {
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.left-border {
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 1px solid rgba(0,0,0,0.12);
+}
+.font-col {
+    font-size: 10px;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+}
+.font-col-p{
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.feedback {
+    width: 66.66%;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.details-form {
+    width: 100%;
+    padding: 50px 50px;
+}
+.detail {
+    width: 100%;
+    background-color: rgba(242,244,236);
+    margin-bottom: 15px;
+    border-radius: 2px;
+    padding: 15px 18px;
+    color: #555;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+.msg {
+    height: 60px;
+}
+.map-sec {
+    width: 100%;
+}
+.images {
+    width: 70%;
+    margin: auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow: auto;
+}
+.img-sec {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.footer-cont {
+    width: 90%;
+    margin: auto;
+    overflow: auto;
+    padding: 20px 20px;
+}
+.foot-list {
+    float: left;
+    width: 70%;
+}
+.col-list-foot {
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow: auto;
+    float: left;
+    width: 65%;
+    font-size: 12px;
+}
+.nav-item-left {
+    list-style: none;
+    float: left;
+}
+.nav-list {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
+.item-list {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.footer-logo-copy {
+    width: 20%;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: white;
+    text-align: right;
+}
+.main-logo {
+    text-align: right;
+    margin-bottom: 10px;
+}
+.policy-col {
+    color: white;
+    font-size: 12px;
+}
